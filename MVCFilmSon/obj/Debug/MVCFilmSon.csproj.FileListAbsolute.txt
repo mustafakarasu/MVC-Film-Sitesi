@@ -1,0 +1,171 @@
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\roslyn\csc.exe
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\roslyn\vbc.exe
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\roslyn\VBCSCompiler.exe
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\MVCFilmSon.dll.config
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\MVCFilmSon.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\MVCFilmSon.pdb
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Antlr3.Runtime.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\EntityFramework.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\EntityFramework.SqlServer.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.Web.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.ApplicationInsights.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Newtonsoft.Json.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Owin.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.Helpers.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.Mvc.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.Optimization.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.Razor.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.WebPages.Deployment.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.WebPages.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.WebPages.Razor.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\WebGrease.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.Web.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.ApplicationInsights.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.Helpers.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.Mvc.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.Optimization.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.Razor.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.WebPages.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.WebPages.Deployment.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\System.Web.WebPages.Razor.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Antlr3.Runtime.pdb
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Newtonsoft.Json.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\EntityFramework.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\EntityFramework.SqlServer.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\obj\Debug\MVCFilmSon.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\obj\Debug\MVCFilmSon.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\obj\Debug\MVCFilmSon.pdb
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\PagedList.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\PagedList.Mvc.dll
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\PagedList.xml
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MVCFilmSon\MVCFilmSon\bin\PagedList.Mvc.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\roslyn\csc.exe
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\roslyn\vbc.exe
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\MVCFilmSon.dll.config
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\MVCFilmSon.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\MVCFilmSon.pdb
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Antlr3.Runtime.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\EntityFramework.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\EntityFramework.SqlServer.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.Web.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Newtonsoft.Json.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Owin.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\PagedList.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\PagedList.Mvc.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.Helpers.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.Mvc.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.Optimization.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.Razor.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.WebPages.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\WebGrease.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.Web.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\PagedList.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\PagedList.Mvc.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.Helpers.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.Mvc.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.Optimization.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.Razor.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.WebPages.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Antlr3.Runtime.pdb
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Newtonsoft.Json.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\EntityFramework.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\EntityFramework.SqlServer.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\obj\Debug\MVCFilmSon.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\obj\Debug\MVCFilmSon.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\obj\Debug\MVCFilmSon.dll
+C:\Users\Mustafa\Desktop\GitHub\07.Mvc Film\Kasım03\MVCFilmSon\MVCFilmSon\obj\Debug\MVCFilmSon.pdb
